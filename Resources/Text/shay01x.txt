@@ -1,0 +1,6 @@
+[checked]	hello
+[unchecked]	ohe ki korile bolo
+[checked]	paibo tumare
+[unchecked]	koria
+[unchecked]	bisoyo basona
+[checked]	bisorjon
